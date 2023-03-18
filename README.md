@@ -5,7 +5,8 @@ With this script, you can automatically send an Instagram DM everyday at the sam
 # How to use:
 - Open the files in a text editor
 - Enter your login information inside the "myInfo.py" file
-- Run the file "Send_DM.py".
+- Run the file "Send_DM.py"
+
 The file needs to be running 24/7, so do not shutdown your device.
 
 If you have a laptop:
